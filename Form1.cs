@@ -82,25 +82,5 @@ namespace YazLab3
             }
         }
 
-       
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void musteriSayisi_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void start_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
